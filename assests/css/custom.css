@@ -1,0 +1,38 @@
+nav {
+  color: #fff;
+  background-color: #3c9549;
+}
+navbar-size {
+
+  width: 95%;
+  margin: 0 auto;
+}
+
+.user-image-size {
+
+  height: 56px;
+  margin: 4px 0;
+}
+.main-body {
+
+  background-color:#a4cea5;
+  color: white;
+  height: calc(100vh - 64px);
+}
+.materialboxed-image {
+
+  margin: 0 auto;
+  height: 400px;
+}
+
+.click-me-button {
+
+  background-color: #17a10f;
+  margin-top: 50px;
+}
+p.card-text {
+  color: #333;
+}
+.modelClose{
+  z-index: 1003; display: none; opacity: 0; top: 4%; transform: scaleX(0.8) scaleY(0.8);
+}
